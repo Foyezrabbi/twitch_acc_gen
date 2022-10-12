@@ -1,0 +1,4 @@
+Faker==15.0.0
+selenium==4.1.5
+temp_mail==0.2
+tempmail==3.0
